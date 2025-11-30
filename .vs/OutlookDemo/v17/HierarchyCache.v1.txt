@@ -1,0 +1,200 @@
+﻿++Solution 'OutlookDemo' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:OutlookDemo.sln
+++OutlookDemo
+i:{00000000-0000-0000-0000-000000000000}:OutlookDemo
+++Properties
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\properties\
+++References
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++DiaLog
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\
+++entity
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\entity\
+++Resources
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\
+++UserControls
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\usercontrols\
+++App.config
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\app.config
+++connectDB.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\connectdb.cs
+++Form1.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\form1.cs
+++FormLogin.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\formlogin.cs
+++packages.config
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\packages.config
+++Program.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\program.cs
+++AssemblyInfo.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\properties\assemblyinfo.cs
+++Resources.resx
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\properties\resources.resx
+++Settings.settings
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\properties\settings.settings
+++EPPlus
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++EPPlus.Interfaces
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++EPPlus.System.Drawing
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++Guna.UI2
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++Microsoft.CSharp
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++Microsoft.IO.RecyclableMemoryStream
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++Microsoft.Office.Interop.Excel
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++Microsoft.VisualBasic
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++PresentationCore
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.ComponentModel.Annotations
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.ComponentModel.DataAnnotations
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.configuration
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.Core
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.Data
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.Data.DataSetExtensions
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.Deployment
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.Design
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.Drawing
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.Management
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.Net.Http
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.Security
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.Threading.Tasks
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.Web
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.Windows.Forms
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.Xml
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++System.Xml.Linq
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++VBIDE
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:
+++ActionUserForm.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\actionuserform.cs
+++Formbuilding.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\formbuilding.cs
+++FormClass.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\formclass.cs
+++FormClassSection.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\formclasssection.cs
+++FormSchedule.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\formschedule.cs
+++GraduationProject.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\graduationproject.cs
+++HocVi.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\entity\hocvi.cs
+++kiemNhiem.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\entity\kiemnhiem.cs
+++0 (1).jpg
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\0 (1).jpg
+++0.jpg
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\0.jpg
+++coursera-logo-square.jpg
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\coursera-logo-square.jpg
+++icons8_add_message_50px.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_add_message_50px.png
+++icons8_calendar_31_50px.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_calendar_31_50px.png
+++icons8_mail_error_50px.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_mail_error_50px.png
+++icons8_mail_error_50px_1.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_mail_error_50px_1.png
+++icons8_male_user_50px.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_male_user_50px.png
+++icons8_microsoft_outlook_50px.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_microsoft_outlook_50px.png
+++icons8_new_post_50px.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_new_post_50px.png
+++icons8_new_post_50px_2.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_new_post_50px_2.png
+++icons8_notification_50px.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_notification_50px.png
+++icons8_paper_plane_50px.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_paper_plane_50px.png
+++icons8_paper_plane_50px_1.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_paper_plane_50px_1.png
+++icons8_postal_50px.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_postal_50px.png
+++icons8_postal_50px_1.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_postal_50px_1.png
+++icons8_search_50px.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_search_50px.png
+++icons8_settings_50px.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_settings_50px.png
+++icons8_spam_50px.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_spam_50px.png
+++icons8_spam_50px_1.png
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\icons8_spam_50px_1.png
+++New Project (3).jpg
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\new project (3).jpg
+++portrait-white-man-isolated_53876-40306.jpg
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\portrait-white-man-isolated_53876-40306.jpg
+++YPP Grow with YouTube.jpg
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\resources\ypp grow with youtube.jpg
+++UserControlGiangVien.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\usercontrols\usercontrolgiangvien.cs
+++UserControlLuongGV.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\usercontrols\usercontrolluonggv.cs
+++Form1.Designer.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\form1.designer.cs
+++Form1.resx
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\form1.resx
+++FormLogin.Designer.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\formlogin.designer.cs
+++FormLogin.resx
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\formlogin.resx
+++Resources.Designer.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\properties\settings.designer.cs
+++ActionUserForm.Designer.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\actionuserform.designer.cs
+++ActionUserForm.resx
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\actionuserform.resx
+++Formbuilding.Designer.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\formbuilding.designer.cs
+++Formbuilding.resx
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\formbuilding.resx
+++FormClass.Designer.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\formclass.designer.cs
+++FormClass.resx
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\formclass.resx
+++FormClassSection.Designer.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\formclasssection.designer.cs
+++FormClassSection.resx
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\formclasssection.resx
+++FormSchedule.Designer.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\formschedule.designer.cs
+++FormSchedule.resx
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\formschedule.resx
+++GraduationProject.Designer.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\graduationproject.designer.cs
+++GraduationProject.resx
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\dialog\graduationproject.resx
+++UserControlGiangVien.Designer.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\usercontrols\usercontrolgiangvien.designer.cs
+++UserControlGiangVien.resx
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\usercontrols\usercontrolgiangvien.resx
+++UserControlLuongGV.Designer.cs
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\usercontrols\usercontrolluonggv.designer.cs
+++UserControlLuongGV.resx
+i:{d38aeefe-ae69-4ffc-9976-65ef093418a5}:c:\users\trant\downloads\doan\demo\source code\outlookdemo\usercontrols\usercontrolluonggv.resx
